@@ -1,14 +1,13 @@
 import java.util.*;
 
-class 택배상자꺼내기 {
+class Solution {
     public static int solution(int n, int w, int num) {
         int answer = 0;
-        int h = n / w + 1;  // 행(h) 개수 계산
-        int[][] arr = new int[h][w];  // 올바른 배열 크기 설정
+        int h = n / w + 1;
+        int[][] arr = new int[h][w];
         int cnt = 0;
         int x = 0, y = 0;
 
-        // 2차원 배열 생성
         for (int i = 0; i < h; i++) {
             if (i % 2 == 0) {
                 cnt = i * w + 1;
@@ -31,16 +30,13 @@ class 택배상자꺼내기 {
             }
         }
 
-        System.out.println(Arrays.deepToString.arr);
-
-        // 위로 이동하며 숫자가 존재하는 칸 개수 세기
-        for (int i = x; i >= 0; i--) {
+        for (int i = x; i < h; i++) {
             if (arr[i][y] != 0) {
                 answer++;
             }
         }
         
-        return answer + 1;
+        return answer;
     }
 
     public static void main(String[] args) {
