@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public static int solution(int n, int w, int num) {
         int answer = 0;
