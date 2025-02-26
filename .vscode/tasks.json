@@ -1,6 +1,15 @@
 {
     "tasks": [
         {
+            "label": "Run Java and Clean",
+            "type": "shell",
+            "command": "javac ${file} && java ${fileBasenameNoExtension} && rm -f ${fileBasenameNoExtension}.class",
+            "group": {
+              "kind": "build",
+              "isDefault": true
+            }
+        },
+        {
             "type": "cppbuild",
             "label": "C/C++: gcc 활성 파일 빌드",
             "command": "/usr/bin/gcc",
