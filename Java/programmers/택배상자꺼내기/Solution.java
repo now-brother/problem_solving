@@ -1,4 +1,5 @@
-class Solution {
+public class Solution {
+    
     public static int solution(int n, int w, int num) {
         int answer = 0;
         int h = n / w + 1;
