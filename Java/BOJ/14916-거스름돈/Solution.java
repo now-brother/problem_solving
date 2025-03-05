@@ -21,5 +21,7 @@ public class Solution {
                  break;
              }
          }
+
+         sc.close();
     }
 }
