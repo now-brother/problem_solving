@@ -32,6 +32,7 @@ class Solution {
                 }
             }else if(s == 'Z'){
                 int j = stack.pop();
+                System.out.println(j);
                 
             }
         }
