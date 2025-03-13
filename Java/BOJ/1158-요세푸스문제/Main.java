@@ -27,7 +27,6 @@ public class Main {
         }
 
         sb.append(deque.pollFirst() + ">");
-
         bw.write(sb.toString() + "\n");
         bw.flush();
 
