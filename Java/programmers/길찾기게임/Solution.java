@@ -1,52 +1,87 @@
 package Java.programmers.길찾기게임;
 
+import java.util.*;
+
 public class Solution {
 
     public int[][] solution(int[][] nodeinfo) {
         int[][] answer = new int[2][nodeinfo.length];
-        
-        int[] nodes = new int[2];
 
-        answer[0] = preorder(nodes, 0);
-        answer[1] = postorder(nodes, 0);
-        
+        Node root = makeBT(nodeinfo);
+
+        List<Integer> pre = new ArrayList<>();
+        List<Integer> post = new ArrayList<>();
+
+        preorder(root, pre);
+        postorder(root, post);
+
+        for (int i = 0; i < nodeinfo.length; i++) {
+            answer[0][i] = pre.get(i);
+            answer[1][i] = post.get(i);
+        }
+
         return answer;
     }
-    
 
-    private static int[] preorder(int[] nodes, int idx) {
-        if (idx >= nodes.length || nodes[idx] == -1) {
-            return new int[0];
-        }
-    
-        int[] left = preorder(nodes, idx * 2 + 1);
-        int[] right = preorder(nodes, idx * 2 + 2);
-    
-        int[] result = new int[1 + left.length + right.length];
-    
-        result[0] = nodes[idx];
-        System.arraycopy(left, 0, result, 1, left.length);
-        System.arraycopy(right, 0, result, 1 + left.length, right.length);
-    
-        return result;
-    }
-    
+    private static class Node {
+        int x, y, num;
+        Node left, right;
 
-    private static int[] postorder(int[] nodes, int idx) {
-        if (idx >= nodes.length || nodes[idx] == -1) {
-            return new int[0];
+        public Node(int num, int x, int y) {
+            this.num = num;
+            this.x = x;
+            this.y = y;
         }
-    
-        int[] left = postorder(nodes, idx * 2 + 1);
-        int[] right = postorder(nodes, idx * 2 + 2);
-    
-        int[] result = new int[left.length + right.length + 1];
-    
-        System.arraycopy(left, 0, result, 0, left.length);
-        System.arraycopy(right, 0, result, left.length, right.length);
-        result[result.length - 1] = nodes[idx];
-    
-        return result;
     }
-    
+
+    private static Node makeBT(int[][] nodeinfo) {
+        Node[] nodes = new Node[nodeinfo.length];
+
+        for (int i = 0; i < nodeinfo.length; i++) {
+            nodes[i] = new Node(i + 1, nodeinfo[i][0], nodeinfo[i][1]);
+        }
+
+        Arrays.sort(nodes, (a, b) -> {
+            if (a.y == b.y) return Integer.compare(a.x, b.x);
+            return Integer.compare(b.y, a.y); 
+        });
+
+        Node root = nodes[0];
+
+        for (int i = 1; i < nodes.length; i++) {
+            insertNode(root, nodes[i]);
+        }
+
+        return root;
+    }
+
+    private static void insertNode(Node parent, Node child) {
+        if (child.x < parent.x) {
+            if (parent.left == null) {
+                parent.left = child;
+            } else {
+                insertNode(parent.left, child);
+            }
+        } else {
+            if (parent.right == null) {
+                parent.right = child;
+            } else {
+                insertNode(parent.right, child);
+            }
+        }
+    }
+
+    private static void preorder(Node node, List<Integer> result) {
+        if (node == null) return;
+        result.add(node.num);
+        preorder(node.left, result);
+        preorder(node.right, result);
+    }
+
+    private static void postorder(Node node, List<Integer> result) {
+        if (node == null) return;
+        postorder(node.left, result);
+        postorder(node.right, result);
+        result.add(node.num);
+    }
 }
