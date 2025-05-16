@@ -1,7 +1,5 @@
 package Java.programmers.기지국설치;
 
-import java.util.*;
-
 class Solution {
     public int solution(int n, int[] stations, int w) {
         int answer = 0;

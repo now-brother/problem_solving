@@ -4,7 +4,6 @@ import java.util.*;
 
 class Solution {
     int solution(int[][] land) {
-        int answer = 0;
 
         for(int i = 1; i < land.length; i++){
             for(int j = 0; j < 4; j++){
