@@ -1,3 +1,5 @@
+package Java.programmers.피로도;
+
 class Solution {
     
     private static int[][] dungeon;
