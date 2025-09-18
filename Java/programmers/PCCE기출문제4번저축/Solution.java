@@ -21,5 +21,7 @@ public class Solution {
         }
 
         System.out.println(month);
+
+        sc.close();
     }
 }
