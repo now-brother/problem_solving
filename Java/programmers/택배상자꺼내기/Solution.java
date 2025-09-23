@@ -1,3 +1,5 @@
+package Java.programmers.택배상자꺼내기;
+
 public class Solution {
     
     public static int solution(int n, int w, int num) {
