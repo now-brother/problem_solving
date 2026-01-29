@@ -1,4 +1,4 @@
-package Java.programmers.크레인인형뽑기게임;
+package java.programmers.크레인인형뽑기게임;
 
 import java.util.*;
 

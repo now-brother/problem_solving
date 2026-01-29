@@ -1,4 +1,4 @@
-package Java.programmers.약수의개수와덧셈;
+package java.programmers.약수의개수와덧셈;
 
 class Solution {
     public int solution(int left, int right) {

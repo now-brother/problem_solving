@@ -1,4 +1,4 @@
-package Java.programmers.예상대진표;
+package java.programmers.예상대진표;
 
 class Solution
 {

@@ -1,4 +1,4 @@
-package Java.programmers.명예의전당1;
+package java.programmers.명예의전당1;
 
 import java.util.*;
 

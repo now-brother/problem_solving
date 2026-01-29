@@ -1,4 +1,4 @@
-package Java.programmers.옹알이2;
+package java.programmers.옹알이2;
 
 class Solution {
     public int solution(String[] babbling) {

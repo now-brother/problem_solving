@@ -1,4 +1,4 @@
-package Java.programmers.대충만든자판;
+package java.programmers.대충만든자판;
 
 class Solution {
 

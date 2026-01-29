@@ -1,4 +1,4 @@
-package Java.programmers.PCCE기출문제8번창고정리;
+package java.programmers.PCCE기출문제8번창고정리;
 
 public class Solution {
     public String solution(String[] storage, int[] num) {

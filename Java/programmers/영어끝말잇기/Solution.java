@@ -1,4 +1,4 @@
-package Java.programmers.영어끝말잇기;
+package java.programmers.영어끝말잇기;
 
 import java.util.*;
 

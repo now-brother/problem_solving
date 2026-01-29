@@ -1,4 +1,4 @@
-package Java.programmers.문자열내림차순으로배치하기;
+package java.programmers.문자열내림차순으로배치하기;
 
 import java.util.*;
 

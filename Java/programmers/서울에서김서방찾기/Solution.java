@@ -1,4 +1,4 @@
-package Java.programmers.서울에서김서방찾기;
+package java.programmers.서울에서김서방찾기;
 
 class Solution {
     public String solution(String[] seoul) {

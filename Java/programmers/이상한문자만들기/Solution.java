@@ -1,4 +1,4 @@
-package Java.programmers.이상한문자만들기;
+package java.programmers.이상한문자만들기;
 
 class Solution {
     public String solution(String s) {

@@ -1,4 +1,4 @@
-package Java.programmers.캐릭터의좌표;
+package java.programmers.캐릭터의좌표;
 
 class Solution {
     public int[] solution(String[] keyinput, int[] board) {

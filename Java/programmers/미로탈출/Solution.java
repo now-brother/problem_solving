@@ -1,4 +1,4 @@
-package Java.programmers.미로탈출;
+package java.programmers.미로탈출;
 
 import java.util.*;
 

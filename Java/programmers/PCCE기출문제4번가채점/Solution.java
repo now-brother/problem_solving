@@ -1,4 +1,4 @@
-package Java.programmers.PCCE기출문제4번가채점;
+package java.programmers.PCCE기출문제4번가채점;
 
 public class Solution {
     public String[] solution(int[] numbers, int[] our_score, int[] score_list) {

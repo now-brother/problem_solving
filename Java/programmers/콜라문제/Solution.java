@@ -1,4 +1,4 @@
-package Java.programmers.콜라문제;
+package java.programmers.콜라문제;
 
 class Solution {
     public int solution(int a, int b, int n) {

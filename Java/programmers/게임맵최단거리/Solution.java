@@ -1,4 +1,4 @@
-package Java.programmers.게임맵최단거리;
+package java.programmers.게임맵최단거리;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Java.programmers.숫자짝꿍;
+package java.programmers.숫자짝꿍;
 
 class Solution {
     public String solution(String X, String Y) {

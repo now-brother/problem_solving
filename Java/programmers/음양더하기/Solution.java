@@ -1,4 +1,4 @@
-package Java.programmers.음양더하기;
+package java.programmers.음양더하기;
 
 class Solution {
     public int solution(int[] absolutes, boolean[] signs) {

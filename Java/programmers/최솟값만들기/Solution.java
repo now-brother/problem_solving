@@ -1,4 +1,4 @@
-package Java.programmers.최솟값만들기;
+package java.programmers.최솟값만들기;
 
 import java.util.*;
 

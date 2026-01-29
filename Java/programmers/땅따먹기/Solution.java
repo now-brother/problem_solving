@@ -1,4 +1,4 @@
-package Java.programmers.땅따먹기;
+package java.programmers.땅따먹기;
 
 import java.util.*;
 

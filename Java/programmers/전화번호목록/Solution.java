@@ -1,4 +1,4 @@
-package Java.programmers.전화번호목록;
+package java.programmers.전화번호목록;
 
 import java.util.*;
 

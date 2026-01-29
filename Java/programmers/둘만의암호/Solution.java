@@ -1,4 +1,4 @@
-package Java.programmers.둘만의암호;
+package java.programmers.둘만의암호;
 
 import java.util.*;
 

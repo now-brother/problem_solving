@@ -1,4 +1,4 @@
-package Java.programmers.예산;
+package java.programmers.예산;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Java.programmers.기사단원의무기;
+package java.programmers.기사단원의무기;
 
 class Solution {
     public int solution(int number, int limit, int power) {

@@ -1,4 +1,4 @@
-package Java.programmers.베스트앨범;
+package java.programmers.베스트앨범;
 
 import java.util.*;
 

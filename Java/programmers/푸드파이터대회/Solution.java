@@ -1,4 +1,4 @@
-package Java.programmers.푸드파이터대회;
+package java.programmers.푸드파이터대회;
 
 class Solution {
     public String solution(int[] food) {

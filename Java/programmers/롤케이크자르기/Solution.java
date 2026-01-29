@@ -1,4 +1,4 @@
-package Java.programmers.롤케이크자르기;
+package java.programmers.롤케이크자르기;
 
 import java.util.*;
 

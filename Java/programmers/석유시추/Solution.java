@@ -1,4 +1,4 @@
-package Java.programmers.석유시추;
+package java.programmers.석유시추;
 
 import java.util.*;
 

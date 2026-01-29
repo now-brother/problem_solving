@@ -1,4 +1,4 @@
-package Java.programmers.요격시스템;
+package java.programmers.요격시스템;
 
 import java.util.*;
 

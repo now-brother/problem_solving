@@ -1,4 +1,4 @@
-package Java.programmers.나머지가1이되는수찾기;
+package java.programmers.나머지가1이되는수찾기;
 
 class Solution {
     public int solution(int n) {

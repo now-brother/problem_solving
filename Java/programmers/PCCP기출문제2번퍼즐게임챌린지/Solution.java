@@ -1,4 +1,4 @@
-package Java.programmers.PCCP기출문제2번퍼즐게임챌린지;
+package java.programmers.PCCP기출문제2번퍼즐게임챌린지;
 
 class Solution {
     public int solution(int[] diffs, int[] times, long limit) {

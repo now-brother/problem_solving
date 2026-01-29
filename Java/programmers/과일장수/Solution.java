@@ -1,4 +1,4 @@
-package Java.programmers.과일장수;
+package java.programmers.과일장수;
 
 import java.util.*;
 

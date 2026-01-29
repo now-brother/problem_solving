@@ -1,4 +1,4 @@
-package Java.programmers.A와B출력하기;
+package java.programmers.A와B출력하기;
 
 import java.util.Scanner;
 

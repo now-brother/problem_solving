@@ -1,4 +1,4 @@
-package Java.programmers.당구연습;
+package java.programmers.당구연습;
 
 class Solution {
     public int[] solution(int m, int n, int startX, int startY, int[][] balls) {

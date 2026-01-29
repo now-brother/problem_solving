@@ -1,4 +1,4 @@
-package Java.programmers.양궁;
+package java.programmers.양궁;
 
 class Solution {
     

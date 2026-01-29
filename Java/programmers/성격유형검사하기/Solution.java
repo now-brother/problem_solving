@@ -1,4 +1,4 @@
-package Java.programmers.성격유형검사하기;
+package java.programmers.성격유형검사하기;
 
 import java.util.*;
 

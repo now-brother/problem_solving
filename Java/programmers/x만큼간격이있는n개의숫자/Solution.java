@@ -1,4 +1,4 @@
-package Java.programmers.x만큼간격이있는n개의숫자;
+package java.programmers.x만큼간격이있는n개의숫자;
 
 class Solution {
     public long[] solution(int x, int n) {

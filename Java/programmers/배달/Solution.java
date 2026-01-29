@@ -1,4 +1,4 @@
-package Java.programmers.배달;
+package java.programmers.배달;
 
 class Solution {
 

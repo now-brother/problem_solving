@@ -1,4 +1,4 @@
-package Java.programmers.소수찾기;
+package java.programmers.소수찾기;
 
 class Solution {
     public int solution(int n) {

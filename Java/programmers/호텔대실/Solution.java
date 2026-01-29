@@ -1,4 +1,4 @@
-package Java.programmers.호텔대실;
+package java.programmers.호텔대실;
 
 import java.util.*;
 

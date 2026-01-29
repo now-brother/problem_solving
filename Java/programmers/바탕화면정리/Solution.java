@@ -1,4 +1,4 @@
-package Java.programmers.바탕화면정리;
+package java.programmers.바탕화면정리;
 
 class Solution {
     public int[] solution(String[] wallpaper) {

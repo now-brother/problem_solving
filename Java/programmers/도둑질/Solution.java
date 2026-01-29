@@ -1,4 +1,4 @@
-package Java.programmers.도둑질;
+package java.programmers.도둑질;
 
 class Solution {
     public int solution(int[] money) {

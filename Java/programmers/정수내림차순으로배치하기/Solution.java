@@ -1,4 +1,4 @@
-package Java.programmers.정수내림차순으로배치하기;
+package java.programmers.정수내림차순으로배치하기;
 
 class Solution {
     public long solution(long n) {

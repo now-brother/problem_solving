@@ -1,4 +1,4 @@
-package Java.programmers.경주로건설;
+package java.programmers.경주로건설;
 
 import java.util.*;
 

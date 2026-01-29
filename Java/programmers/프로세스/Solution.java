@@ -1,4 +1,4 @@
-package Java.programmers.프로세스;
+package java.programmers.프로세스;
 
 import java.util.*;
 

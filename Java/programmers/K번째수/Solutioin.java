@@ -1,4 +1,4 @@
-package Java.programmers.K번째수;
+package java.programmers.K번째수;
 
 import java.util.*;
 

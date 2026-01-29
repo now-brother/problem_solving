@@ -1,4 +1,4 @@
-package Java.programmers.피로도;
+package java.programmers.피로도;
 
 class Solution {
     

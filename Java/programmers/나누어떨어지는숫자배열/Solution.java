@@ -1,4 +1,4 @@
-package Java.programmers.나누어떨어지는숫자배열;
+package java.programmers.나누어떨어지는숫자배열;
 
 import java.util.*;
 

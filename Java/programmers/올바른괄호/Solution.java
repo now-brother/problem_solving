@@ -1,4 +1,4 @@
-package Java.programmers.올바른괄호;
+package java.programmers.올바른괄호;
 
 import java.util.Stack;
 

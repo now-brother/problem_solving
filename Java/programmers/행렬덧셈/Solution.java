@@ -1,4 +1,4 @@
-package Java.programmers.행렬덧셈;
+package java.programmers.행렬덧셈;
 
 class Solution {
     public int[][] solution(int[][] arr1, int[][] arr2) {

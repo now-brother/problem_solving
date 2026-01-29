@@ -1,4 +1,4 @@
-package Java.programmers.사라지는발판;
+package java.programmers.사라지는발판;
 
 class Solution {
 

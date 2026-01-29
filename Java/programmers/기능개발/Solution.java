@@ -1,4 +1,4 @@
-package Java.programmers.기능개발;
+package java.programmers.기능개발;
 
 import java.util.*;
 

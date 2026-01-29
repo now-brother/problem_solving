@@ -1,4 +1,4 @@
-package Java.programmers.최대값과최소값;
+package java.programmers.최대값과최소값;
 
 class Solution {
     public String solution(String s) {

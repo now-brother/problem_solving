@@ -1,4 +1,4 @@
-package Java.programmers.무인도여행;
+package java.programmers.무인도여행;
 
 import java.util.*;
 

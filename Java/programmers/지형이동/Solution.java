@@ -1,4 +1,4 @@
-package Java.programmers.지형이동;
+package java.programmers.지형이동;
 
 import java.util.*;
 

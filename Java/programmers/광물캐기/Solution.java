@@ -1,4 +1,4 @@
-package Java.programmers.광물캐기;
+package java.programmers.광물캐기;
 
 import java.util.*;
 

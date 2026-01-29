@@ -1,4 +1,4 @@
-package Java.programmers.과제진행하기;
+package java.programmers.과제진행하기;
 
 import java.util.*;
 

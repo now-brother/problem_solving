@@ -1,4 +1,4 @@
-package Java.programmers.PCCE기출문제7번가습기;
+package java.programmers.PCCE기출문제7번가습기;
 
 class Solution {
     public int func1(int humidity, int val_set){

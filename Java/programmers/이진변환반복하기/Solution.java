@@ -1,4 +1,4 @@
-package Java.programmers.이진변환반복하기;
+package java.programmers.이진변환반복하기;
 
 class Solution {
     public int[] solution(String s) {

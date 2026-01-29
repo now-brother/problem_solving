@@ -1,4 +1,4 @@
-package Java.programmers.PCCE기출문제3번나이계산;
+package java.programmers.PCCE기출문제3번나이계산;
 
 import java.util.*;
 

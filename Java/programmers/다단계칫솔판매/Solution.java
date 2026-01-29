@@ -1,4 +1,4 @@
-package Java.programmers.다단계칫솔판매;
+package java.programmers.다단계칫솔판매;
 import java.util.*;
 
 class Solution {

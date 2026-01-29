@@ -1,4 +1,4 @@
-package Java.programmers.자연수뒤집어배열로만들기;
+package java.programmers.자연수뒤집어배열로만들기;
 
 class Solution {
     public int[] solution(long n) {

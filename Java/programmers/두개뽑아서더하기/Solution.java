@@ -1,4 +1,4 @@
-package Java.programmers.두개뽑아서더하기;
+package java.programmers.두개뽑아서더하기;
 
 import java.util.*;
 

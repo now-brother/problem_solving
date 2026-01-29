@@ -1,4 +1,4 @@
-package Java.programmers.점프와순간이동;
+package java.programmers.점프와순간이동;
 
 public class Solution {
     public int solution(int n) {

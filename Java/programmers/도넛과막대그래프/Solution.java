@@ -1,4 +1,4 @@
-package Java.programmers.도넛과막대그래프;
+package java.programmers.도넛과막대그래프;
 
 //생성한 정점, 도넛, 막대, 8자
 import java.util.*;

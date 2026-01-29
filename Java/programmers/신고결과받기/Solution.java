@@ -1,4 +1,4 @@
-package Java.programmers.신고결과받기;
+package java.programmers.신고결과받기;
 
 import java.util.*;
 

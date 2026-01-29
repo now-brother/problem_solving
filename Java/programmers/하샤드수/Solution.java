@@ -1,4 +1,4 @@
-package Java.programmers.하샤드수;
+package java.programmers.하샤드수;
 
 class Solution {
     public boolean solution(int x) {

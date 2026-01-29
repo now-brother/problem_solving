@@ -1,4 +1,4 @@
-package Java.programmers.표편집;
+package java.programmers.표편집;
 
 import java.util.*;
 

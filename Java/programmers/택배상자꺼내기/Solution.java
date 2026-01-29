@@ -1,4 +1,4 @@
-package Java.programmers.택배상자꺼내기;
+package java.programmers.택배상자꺼내기;
 
 public class Solution {
     

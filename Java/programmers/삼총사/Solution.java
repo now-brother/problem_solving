@@ -1,4 +1,4 @@
-package Java.programmers.삼총사;
+package java.programmers.삼총사;
 
 class Solution {
     public int solution(int[] number) {

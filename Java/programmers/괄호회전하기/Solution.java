@@ -1,4 +1,4 @@
-package Java.programmers.괄호회전하기;
+package java.programmers.괄호회전하기;
 
 import java.util.*;
 

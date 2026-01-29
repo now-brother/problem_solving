@@ -1,4 +1,4 @@
-package Java.programmers.햄버거만들기;
+package java.programmers.햄버거만들기;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Java.programmers.추억점수;
+package java.programmers.추억점수;
 
 import java.util.*;
 

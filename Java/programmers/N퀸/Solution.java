@@ -1,4 +1,4 @@
-package Java.programmers.N퀸;
+package java.programmers.N퀸;
 
 class Solution {
     private int N = 0;

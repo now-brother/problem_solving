@@ -1,4 +1,4 @@
-package Java.programmers.네트워크;
+package java.programmers.네트워크;
 
 class Solution {
     private static int[][] computer;

@@ -1,4 +1,4 @@
-package Java.programmers.실패율;
+package java.programmers.실패율;
 
 import java.util.*;
 

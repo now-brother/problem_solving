@@ -1,4 +1,4 @@
-package Java.programmers.두원사이의정수쌍;
+package java.programmers.두원사이의정수쌍;
 
 class Solution {
     public long solution(int r1, int r2) {

@@ -1,4 +1,4 @@
-package Java.programmers.카펫;
+package java.programmers.카펫;
 
 class Solution {
     public int[] solution(int brown, int yellow) {

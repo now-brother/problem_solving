@@ -1,4 +1,4 @@
-package Java.programmers.오픈채팅방;
+package java.programmers.오픈채팅방;
 
 import java.util.*;
 

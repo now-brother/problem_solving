@@ -1,4 +1,4 @@
-package Java.programmers.정수삼각형;
+package java.programmers.정수삼각형;
 
 class Solution {
     public int solution(int[][] triangle) {

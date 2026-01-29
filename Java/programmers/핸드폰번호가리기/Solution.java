@@ -1,4 +1,4 @@
-package Java.programmers.핸드폰번호가리기;
+package java.programmers.핸드폰번호가리기;
 
 class Solution {
     public String solution(String phone_number) {

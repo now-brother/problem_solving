@@ -1,4 +1,4 @@
-package Java.programmers.메뉴리뉴얼;
+package java.programmers.메뉴리뉴얼;
 
 import java.util.*;
 

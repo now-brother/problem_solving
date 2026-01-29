@@ -1,4 +1,4 @@
-package Java.programmers.숫자의표현;
+package java.programmers.숫자의표현;
 
 class Solution {
     public int solution(int n) {

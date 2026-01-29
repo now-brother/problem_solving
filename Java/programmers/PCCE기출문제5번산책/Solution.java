@@ -1,4 +1,4 @@
-package Java.programmers.PCCE기출문제5번산책;
+package java.programmers.PCCE기출문제5번산책;
 
 public class Solution {
     public int[] solution(String route) {

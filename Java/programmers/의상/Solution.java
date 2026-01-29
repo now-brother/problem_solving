@@ -1,4 +1,4 @@
-package Java.programmers.;
+package java.programmers.의상;
 
 import java.util.*;
 

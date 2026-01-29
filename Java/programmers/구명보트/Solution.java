@@ -1,4 +1,4 @@
-package Java.programmers.구명보트;
+package java.programmers.구명보트;
 
 import java.util.Arrays;
 

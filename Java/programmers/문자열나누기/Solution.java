@@ -1,4 +1,4 @@
-package Java.programmers.문자열나누기;
+package java.programmers.문자열나누기;
 
 class Solution {
     public int solution(String s) {

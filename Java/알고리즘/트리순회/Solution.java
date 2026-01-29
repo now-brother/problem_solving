@@ -1,4 +1,4 @@
-package Java.알고리즘.트리순회;
+package java.알고리즘.트리순회;
 
 public class Solution {
     public static String[] solution(int[] nodes){

@@ -1,4 +1,4 @@
-package Java.programmers.문자열내p와y의개수;
+package java.programmers.문자열내p와y의개수;
 
 class Solution {
     boolean solution(String s) {

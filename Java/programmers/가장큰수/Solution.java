@@ -1,4 +1,4 @@
-package Java.programmers.가장큰수;
+package java.programmers.가장큰수;
 
 import java.util.*;
 

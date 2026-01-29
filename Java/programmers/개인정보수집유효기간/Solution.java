@@ -1,4 +1,4 @@
-package Java.programmers.개인정보수집유효기간;
+package java.programmers.개인정보수집유효기간;
 
 import java.util.*;
 

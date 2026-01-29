@@ -1,4 +1,4 @@
-package Java.programmers.피보나치수;
+package java.programmers.피보나치수;
 
 class Solution {
     public int solution(int n) {

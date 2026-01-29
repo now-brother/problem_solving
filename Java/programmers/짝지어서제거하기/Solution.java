@@ -1,4 +1,4 @@
-package Java.programmers.짝지어서제거하기;
+package java.programmers.짝지어서제거하기;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Java.programmers.포켓몬;
+package java.programmers.포켓몬;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Java.programmers.제일작은수;
+package java.programmers.제일작은수;
 
 class Solution {
     public int[] solution(int[] arr) {

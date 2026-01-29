@@ -1,4 +1,4 @@
-package Java.programmers.덧칠하기;
+package java.programmers.덧칠하기;
 
 class Solution {
     public int solution(int n, int m, int[] section) {

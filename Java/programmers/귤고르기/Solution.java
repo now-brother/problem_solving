@@ -1,4 +1,4 @@
-package Java.programmers.귤고르기;
+package java.programmers.귤고르기;
 
 import java.util.*;
 

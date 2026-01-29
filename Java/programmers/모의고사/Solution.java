@@ -1,4 +1,4 @@
-package Java.programmers.모의고사;
+package java.programmers.모의고사;
 
 import java.util.*;
 

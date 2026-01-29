@@ -1,4 +1,4 @@
-package Java.programmers.내적;
+package java.programmers.내적;
 
 class Solution {
     public int solution(int[] a, int[] b) {

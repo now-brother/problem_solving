@@ -1,4 +1,4 @@
-package Java.programmers.행렬의곱셈;
+package java.programmers.행렬의곱셈;
 
 public class Solution {
     public int[][] solution(int[][] arr1, int[][] arr2) {

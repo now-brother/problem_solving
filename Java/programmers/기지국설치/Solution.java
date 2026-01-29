@@ -1,4 +1,4 @@
-package Java.programmers.기지국설치;
+package java.programmers.기지국설치;
 
 class Solution {
     public int solution(int n, int[] stations, int w) {

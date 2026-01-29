@@ -1,4 +1,4 @@
-package Java.programmers.수박수박수박수박수박수;
+package java.programmers.수박수박수박수박수박수;
 
 class Solution {
     public String solution(int n) {

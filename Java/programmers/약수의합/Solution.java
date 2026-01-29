@@ -1,4 +1,4 @@
-package Java.programmers.약수의합;
+package java.programmers.약수의합;
 
 class Solution {
     public int solution(int n) {

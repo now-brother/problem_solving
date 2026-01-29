@@ -1,4 +1,4 @@
-package Java.programmers.전력망을둘로나누기;
+package java.programmers.전력망을둘로나누기;
 
 class Solution {
 

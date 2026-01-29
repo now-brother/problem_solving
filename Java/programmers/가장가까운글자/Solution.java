@@ -1,4 +1,4 @@
-package Java.programmers.가장가까운글자;
+package java.programmers.가장가까운글자;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Java.programmers.가장큰정사각형찾기;
+package java.programmers.가장큰정사각형찾기;
 
 class Solution {
     public int solution(int[][] board) {

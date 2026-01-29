@@ -1,4 +1,4 @@
-package Java.programmers.달리기경주;
+package java.programmers.달리기경주;
 
 import java.util.*;
 

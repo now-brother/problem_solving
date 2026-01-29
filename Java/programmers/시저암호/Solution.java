@@ -1,4 +1,4 @@
-package Java.programmers.시저암호;
+package java.programmers.시저암호;
 
 class Solution {
     public String solution(String s, int n) {

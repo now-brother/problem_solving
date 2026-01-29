@@ -1,4 +1,4 @@
-package Java.programmers.방문길이;
+package java.programmers.방문길이;
 
 import java.util.*;
 

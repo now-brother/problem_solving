@@ -1,4 +1,4 @@
-package Java.programmers.같은숫자는싫어;
+package java.programmers.같은숫자는싫어;
 
 import java.util.*;
 

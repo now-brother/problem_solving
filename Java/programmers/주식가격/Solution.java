@@ -1,4 +1,4 @@
-package Java.programmers.주식가격;
+package java.programmers.주식가격;
 
 import java.util.*;
 

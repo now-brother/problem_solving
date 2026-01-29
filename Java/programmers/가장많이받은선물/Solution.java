@@ -1,4 +1,4 @@
-package Java.programmers.가장많이받은선물;
+package java.programmers.가장많이받은선물;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Java.programmers.외벽점검;
+package java.programmers.외벽점검;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Java.programmers.양과늑대;
+package java.programmers.양과늑대;
 
 import java.util.*;
 

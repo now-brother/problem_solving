@@ -1,4 +1,4 @@
-package Java.programmers.문자열반복해서출력하기;
+package java.programmers.문자열반복해서출력하기;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Java.programmers.섬연결하기;
+package java.programmers.섬연결하기;
 
 import java.util.*;
 

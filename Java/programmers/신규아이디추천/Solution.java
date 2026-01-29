@@ -1,4 +1,4 @@
-package Java.programmers.신규아이디추천;
+package java.programmers.신규아이디추천;
 
 class Solution {
     private String level1(String s){

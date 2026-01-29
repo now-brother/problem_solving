@@ -1,4 +1,4 @@
-package Java.programmers.완전범죄;
+package java.programmers.완전범죄;
 
 import java.util.Arrays;
 class Solution {

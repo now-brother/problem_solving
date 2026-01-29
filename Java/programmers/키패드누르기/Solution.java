@@ -1,4 +1,4 @@
-package Java.programmers.키패드누르기;
+package java.programmers.키패드누르기;
 
 class Solution {
     public String solution(int[] numbers, String hand) {

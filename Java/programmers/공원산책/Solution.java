@@ -1,4 +1,4 @@
-package Java.programmers.공원산책;
+package java.programmers.공원산책;
 
 class Solution {
     public int[] solution(String[] park, String[] routes) {

@@ -1,4 +1,4 @@
-package Java.programmers.길찾기게임;
+package java.programmers.길찾기게임;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Java.programmers.서버증설횟수;
+package java.programmers.서버증설횟수;
 
 import java.util.*; 
 

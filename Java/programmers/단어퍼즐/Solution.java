@@ -1,4 +1,4 @@
-package Java.programmers.단어퍼즐;
+package java.programmers.단어퍼즐;
 
 import java.util.*;
 

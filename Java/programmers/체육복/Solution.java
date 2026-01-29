@@ -1,4 +1,4 @@
-package Java.programmers.체육복;
+package java.programmers.체육복;
 
 import java.util.*;
 

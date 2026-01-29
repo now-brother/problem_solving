@@ -1,4 +1,4 @@
-package Java.programmers.튜플;
+package java.programmers.튜플;
 
 import java.util.*;
 

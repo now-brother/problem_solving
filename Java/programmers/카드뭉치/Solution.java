@@ -1,4 +1,4 @@
-package Java.programmers.카드뭉치;
+package java.programmers.카드뭉치;
 
 import java.util.*;
 

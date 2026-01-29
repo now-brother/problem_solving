@@ -1,4 +1,4 @@
-package Java.programmers.리코쳇로봇;
+package java.programmers.리코쳇로봇;
 
 import java.util.*;
 

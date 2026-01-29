@@ -1,4 +1,4 @@
-package Java.programmers.할인행사;
+package java.programmers.할인행사;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Java.programmers.크기가작은부분문자열;
+package java.programmers.크기가작은부분문자열;
 
 public class Solution {
     public int solution(String t, String p) {

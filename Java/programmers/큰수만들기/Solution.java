@@ -1,4 +1,4 @@
-package Java.programmers.큰수만들기;
+package java.programmers.큰수만들기;
 
 import java.util.*;
 
