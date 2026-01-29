@@ -1,3 +1,5 @@
+package Java.programmers.체육복;
+
 import java.util.*;
 
 class Solution {
