@@ -1,4 +1,4 @@
-package java.programmers.고득점알고리즘.해시.완주하지못한선수;
+package java.programmers.고득점알고리즘.hash.완주하지못한선수;
 
 import java.util.*;
 
