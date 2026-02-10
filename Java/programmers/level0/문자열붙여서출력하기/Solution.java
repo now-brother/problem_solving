@@ -1,0 +1,14 @@
+package java.programmers.level0.문자열붙여서출력하기;
+
+import java.util.Scanner;
+
+public class Solution {
+    public static void main(String[] args) {
+        try (Scanner sc = new Scanner(System.in)) {
+            String a = sc.next();
+            String b = sc.next();
+            
+            System.out.println(a + "" + b);
+        }
+    }
+}
